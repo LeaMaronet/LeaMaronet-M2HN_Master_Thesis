@@ -20,6 +20,6 @@ Ce mémoire s’attache à étudier, grâce aux méthodes quantitatives et compu
 ## Organisation
 
 Le repository est des annexes numériques attachées au mémoire :  
-- L'annexe 1 est composée du jeu de données. 
-- L'annexe 2 est composée de l'architecture de Mask R-CNN.
-- L'annexe 3 est composée des principaux scripts Python sur lesquels nous avons travaillé.
+- L'**annexe 1** est composée du jeu de données. 
+- L'**annexe 2** est composée de l'architecture de Mask R-CNN.
+- L'**annexe 3** est composée des principaux scripts Python sur lesquels nous avons travaillé.
