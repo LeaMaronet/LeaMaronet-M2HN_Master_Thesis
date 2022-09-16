@@ -1,6 +1,21 @@
+# Étude iconographique, stylistique et computationnelle du motif de la fleur de lotus dans l’art de l’Inde ancienne (IIIe siècle av. J.-C. – IIIe siècle ap.)
+
+Annexes numériques associées au mémoire de Master 2 Humanités Numériques de Léa Maronet portant sur les fleurs de lotus indiens. 
+
+
+***
+
+## Licence
+
+Les images ne sont pas libres de droit. 
+
+***
+
 ## Résumé
  
 Ce mémoire s’attache à étudier, grâce aux méthodes quantitatives et computationnelles, l’iconographie des médaillons et demi-médaillons lotiformes sur les monuments en pierre bouddhiques issus de l’ensemble de l’Inde, à la période formative, c’est-à-dire du IIIe siècle av. J.-C. au IIIe ap. Nous cherchons ici à présenter une méthode permettant d’étudier, à l’aide des humanités numériques, un motif iconographique sculpté tel que celui de la fleur de lotus. Nous nous attachons à visualiser et à dater les transformations dans la représentation de ce motif, les particularités iconographiques typiques d’une région ou d’une époque et la manière dont sa figuration se diffuse dans le sous-continent indien.
+
+***
 
 ## Organisation
 
